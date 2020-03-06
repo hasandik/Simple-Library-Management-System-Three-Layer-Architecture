@@ -1,0 +1,43 @@
+C:\Users\idris\Desktop\KatmanliMimari\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\idris\Desktop\KatmanliMimari\BL\bin\Debug\BL.dll
+C:\Users\idris\Desktop\KatmanliMimari\BL\bin\Debug\BL.pdb
+C:\Users\idris\Desktop\KatmanliMimari\BL\bin\Debug\DAL.dll
+C:\Users\idris\Desktop\KatmanliMimari\BL\bin\Debug\DAL.pdb
+C:\Users\idris\Desktop\KatmanliMimari\BL\obj\Debug\BL.dll
+C:\Users\idris\Desktop\KatmanliMimari\BL\obj\Debug\BL.pdb
+C:\Users\idris\Desktop\KatmanliMimari\BL\bin\Debug\Entity.dll
+C:\Users\idris\Desktop\KatmanliMimari\BL\bin\Debug\Entity.pdb
+C:\Users\Asaad\Desktop\KatmanliMimari\BL\bin\Debug\BL.dll
+C:\Users\Asaad\Desktop\KatmanliMimari\BL\bin\Debug\BL.pdb
+C:\Users\Asaad\Desktop\KatmanliMimari\BL\bin\Debug\DAL.dll
+C:\Users\Asaad\Desktop\KatmanliMimari\BL\bin\Debug\Entity.dll
+C:\Users\Asaad\Desktop\KatmanliMimari\BL\bin\Debug\DAL.pdb
+C:\Users\Asaad\Desktop\KatmanliMimari\BL\bin\Debug\DAL.dll.config
+C:\Users\Asaad\Desktop\KatmanliMimari\BL\bin\Debug\Entity.pdb
+C:\Users\Asaad\Desktop\KatmanliMimari\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\Asaad\Desktop\KatmanliMimari\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Asaad\Desktop\KatmanliMimari\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\Asaad\Desktop\KatmanliMimari\BL\obj\Debug\BL.dll
+C:\Users\Asaad\Desktop\KatmanliMimari\BL\obj\Debug\BL.pdb
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\BL\bin\Debug\BL.dll
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\BL\bin\Debug\BL.pdb
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\BL\bin\Debug\DAL.dll
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\BL\bin\Debug\Entity.dll
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\BL\bin\Debug\DAL.pdb
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\BL\bin\Debug\DAL.dll.config
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\BL\bin\Debug\Entity.pdb
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\BL\obj\Debug\BL.dll
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\BL\obj\Debug\BL.pdb
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\BL\bin\Debug\BL.dll
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\BL\bin\Debug\BL.pdb
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\BL\bin\Debug\DAL.dll
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\BL\bin\Debug\Entity.dll
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\BL\bin\Debug\DAL.pdb
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\BL\bin\Debug\DAL.dll.config
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\BL\bin\Debug\Entity.pdb
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\BL\obj\Debug\BL.csprojAssemblyReference.cache
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\BL\obj\Debug\BL.csproj.CopyComplete
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\BL\obj\Debug\BL.dll
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\BL\obj\Debug\BL.pdb

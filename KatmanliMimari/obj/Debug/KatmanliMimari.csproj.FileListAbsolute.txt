@@ -1,0 +1,99 @@
+C:\Users\idris\Desktop\KatmanliMimari\KatmanliMimari\bin\Debug\KatmanliMimari.exe.config
+C:\Users\idris\Desktop\KatmanliMimari\KatmanliMimari\bin\Debug\KatmanliMimari.exe
+C:\Users\idris\Desktop\KatmanliMimari\KatmanliMimari\bin\Debug\KatmanliMimari.pdb
+C:\Users\idris\Desktop\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.csprojResolveAssemblyReference.cache
+C:\Users\idris\Desktop\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.Properties.Resources.resources
+C:\Users\idris\Desktop\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.csproj.GenerateResource.Cache
+C:\Users\idris\Desktop\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.exe
+C:\Users\idris\Desktop\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.pdb
+C:\Users\idris\Desktop\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.Form1.resources
+C:\Users\idris\Desktop\KatmanliMimari\KatmanliMimari\bin\Debug\BL.dll
+C:\Users\idris\Desktop\KatmanliMimari\KatmanliMimari\bin\Debug\DAL.dll
+C:\Users\idris\Desktop\KatmanliMimari\KatmanliMimari\bin\Debug\BL.pdb
+C:\Users\idris\Desktop\KatmanliMimari\KatmanliMimari\bin\Debug\DAL.pdb
+C:\Users\idris\Desktop\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.OgrenciEkle.resources
+C:\Users\idris\Desktop\KatmanliMimari\KatmanliMimari\bin\Debug\Entity.dll
+C:\Users\idris\Desktop\KatmanliMimari\KatmanliMimari\bin\Debug\Entity.pdb
+C:\Users\idris\Desktop\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.DenemeFormu.resources
+C:\Users\idris\Desktop\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.Form2.resources
+E:\KatmanliMimari\KatmanliMimari\bin\Debug\KatmanliMimari.exe.config
+E:\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.exe
+E:\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.pdb
+E:\KatmanliMimari\KatmanliMimari\bin\Debug\KatmanliMimari.exe
+E:\KatmanliMimari\KatmanliMimari\bin\Debug\KatmanliMimari.pdb
+E:\KatmanliMimari\KatmanliMimari\bin\Debug\BL.dll
+E:\KatmanliMimari\KatmanliMimari\bin\Debug\Entity.dll
+E:\KatmanliMimari\KatmanliMimari\bin\Debug\DAL.dll
+E:\KatmanliMimari\KatmanliMimari\bin\Debug\BL.pdb
+E:\KatmanliMimari\KatmanliMimari\bin\Debug\Entity.pdb
+E:\KatmanliMimari\KatmanliMimari\bin\Debug\DAL.pdb
+E:\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.csprojResolveAssemblyReference.cache
+E:\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.Form1.resources
+E:\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.OgrenciEkle.resources
+E:\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.Properties.Resources.resources
+E:\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.csproj.GenerateResource.Cache
+C:\Users\Asaad\Desktop\KatmanliMimari\KatmanliMimari\bin\Debug\KatmanliMimari.exe.config
+C:\Users\Asaad\Desktop\KatmanliMimari\KatmanliMimari\bin\Debug\KatmanliMimari.exe
+C:\Users\Asaad\Desktop\KatmanliMimari\KatmanliMimari\bin\Debug\KatmanliMimari.pdb
+C:\Users\Asaad\Desktop\KatmanliMimari\KatmanliMimari\bin\Debug\BL.dll
+C:\Users\Asaad\Desktop\KatmanliMimari\KatmanliMimari\bin\Debug\Entity.dll
+C:\Users\Asaad\Desktop\KatmanliMimari\KatmanliMimari\bin\Debug\DAL.dll
+C:\Users\Asaad\Desktop\KatmanliMimari\KatmanliMimari\bin\Debug\BL.pdb
+C:\Users\Asaad\Desktop\KatmanliMimari\KatmanliMimari\bin\Debug\Entity.pdb
+C:\Users\Asaad\Desktop\KatmanliMimari\KatmanliMimari\bin\Debug\DAL.pdb
+C:\Users\Asaad\Desktop\KatmanliMimari\KatmanliMimari\bin\Debug\DAL.dll.config
+C:\Users\Asaad\Desktop\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.csprojAssemblyReference.cache
+C:\Users\Asaad\Desktop\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.Form1.resources
+C:\Users\Asaad\Desktop\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.OgrenciEkle.resources
+C:\Users\Asaad\Desktop\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.Properties.Resources.resources
+C:\Users\Asaad\Desktop\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.csproj.GenerateResource.cache
+C:\Users\Asaad\Desktop\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.csproj.CoreCompileInputs.cache
+C:\Users\Asaad\Desktop\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.csproj.CopyComplete
+C:\Users\Asaad\Desktop\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.exe
+C:\Users\Asaad\Desktop\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.pdb
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\KatmanliMimari\bin\Debug\KatmanliMimari.exe.config
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\KatmanliMimari\bin\Debug\KatmanliMimari.exe
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\KatmanliMimari\bin\Debug\KatmanliMimari.pdb
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\KatmanliMimari\bin\Debug\BL.dll
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\KatmanliMimari\bin\Debug\Entity.dll
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\KatmanliMimari\bin\Debug\DAL.dll
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\KatmanliMimari\bin\Debug\BL.pdb
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\KatmanliMimari\bin\Debug\Entity.pdb
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\KatmanliMimari\bin\Debug\DAL.pdb
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\KatmanliMimari\bin\Debug\DAL.dll.config
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.csprojResolveAssemblyReference.cache
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.Properties.Resources.resources
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.csproj.GenerateResource.Cache
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.csproj.CoreCompileInputs.cache
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.exe
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.pdb
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.ogrenci_islemleri.resources
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.kitap_islemleri.resources
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.alim_iade_gosterim.resources
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.iade_ve_alim.resources
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.kitap_grafik.resources
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.anasayfa.resources
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.ogrenci_alim_iade_gosterim.resources
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\KatmanliMimari\bin\Debug\KatmanliMimari.exe.config
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\KatmanliMimari\bin\Debug\KatmanliMimari.exe
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\KatmanliMimari\bin\Debug\KatmanliMimari.pdb
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\KatmanliMimari\bin\Debug\BL.dll
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\KatmanliMimari\bin\Debug\Entity.dll
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\KatmanliMimari\bin\Debug\DAL.dll
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\KatmanliMimari\bin\Debug\BL.pdb
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\KatmanliMimari\bin\Debug\Entity.pdb
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\KatmanliMimari\bin\Debug\DAL.pdb
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\KatmanliMimari\bin\Debug\DAL.dll.config
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.csprojAssemblyReference.cache
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.alim_iade_gosterim.resources
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.anasayfa.resources
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.iade_ve_alim.resources
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.kitap_grafik.resources
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.kitap_islemleri.resources
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.ogrenci_alim_iade_gosterim.resources
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.ogrenci_islemleri.resources
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.Properties.Resources.resources
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.csproj.GenerateResource.cache
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.csproj.CopyComplete
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.exe
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.pdb

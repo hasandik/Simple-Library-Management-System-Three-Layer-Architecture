@@ -1,0 +1,21 @@
+C:\Users\idris\Desktop\KatmanliMimari\Entity\bin\Debug\Entity.dll
+C:\Users\idris\Desktop\KatmanliMimari\Entity\bin\Debug\Entity.pdb
+C:\Users\idris\Desktop\KatmanliMimari\Entity\obj\Debug\Entity.dll
+C:\Users\idris\Desktop\KatmanliMimari\Entity\obj\Debug\Entity.pdb
+C:\Users\Asaad\Desktop\KatmanliMimari\Entity\bin\Debug\Entity.dll
+C:\Users\Asaad\Desktop\KatmanliMimari\Entity\bin\Debug\Entity.pdb
+C:\Users\Asaad\Desktop\KatmanliMimari\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\Asaad\Desktop\KatmanliMimari\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Asaad\Desktop\KatmanliMimari\Entity\obj\Debug\Entity.dll
+C:\Users\Asaad\Desktop\KatmanliMimari\Entity\obj\Debug\Entity.pdb
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\Entity\bin\Debug\Entity.dll
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\Entity\bin\Debug\Entity.pdb
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\Entity\obj\Debug\Entity.dll
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\Entity\obj\Debug\Entity.pdb
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\Entity\bin\Debug\Entity.dll
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\Entity\bin\Debug\Entity.pdb
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\Entity\obj\Debug\Entity.dll
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\Entity\obj\Debug\Entity.pdb

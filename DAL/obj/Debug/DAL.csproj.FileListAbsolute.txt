@@ -1,0 +1,26 @@
+C:\Users\idris\Desktop\KatmanliMimari\DAL\bin\Debug\DAL.dll.config
+C:\Users\idris\Desktop\KatmanliMimari\DAL\bin\Debug\DAL.dll
+C:\Users\idris\Desktop\KatmanliMimari\DAL\bin\Debug\DAL.pdb
+C:\Users\idris\Desktop\KatmanliMimari\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\idris\Desktop\KatmanliMimari\DAL\obj\Debug\DAL.dll
+C:\Users\idris\Desktop\KatmanliMimari\DAL\obj\Debug\DAL.pdb
+C:\Users\Asaad\Desktop\KatmanliMimari\DAL\bin\Debug\DAL.dll.config
+C:\Users\Asaad\Desktop\KatmanliMimari\DAL\bin\Debug\DAL.dll
+C:\Users\Asaad\Desktop\KatmanliMimari\DAL\bin\Debug\DAL.pdb
+C:\Users\Asaad\Desktop\KatmanliMimari\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Asaad\Desktop\KatmanliMimari\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Asaad\Desktop\KatmanliMimari\DAL\obj\Debug\DAL.dll
+C:\Users\Asaad\Desktop\KatmanliMimari\DAL\obj\Debug\DAL.pdb
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\DAL\bin\Debug\DAL.dll.config
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\DAL\bin\Debug\DAL.dll
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\DAL\bin\Debug\DAL.pdb
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\DAL\obj\Debug\DAL.dll
+C:\Users\HP-OMEN\Desktop\Görsel Proje\KatmanliMimari\DAL\obj\Debug\DAL.pdb
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\DAL\bin\Debug\DAL.dll.config
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\DAL\bin\Debug\DAL.dll
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\DAL\bin\Debug\DAL.pdb
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\DAL\obj\Debug\DAL.dll
+D:\Folders\Projeler\Hasan Dik - Baranalp Aslandoğan Görsel Programlama Proje\KatmanliMimari\DAL\obj\Debug\DAL.pdb
